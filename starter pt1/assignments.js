@@ -76,3 +76,21 @@ switch (language) {
 
 console.log(`${country}'s population is ${population > 33000000 ? 'above' : 'below'} average`);
 console.log(`${country}'s population is ${population}`)
+
+
+/* Write your code below. Good luck! 🙂 */
+
+// bmi = ("mass" / ("height" * "height")); 
+// let massMark = 78;
+// let heightMark = 1.69;
+// let massJohn = 92;
+// let heightJohn = 1.95;
+
+// let bmiMark = (78 / (1.69 * 1.69));
+// console.log(bmiMark);
+
+// let bmiJohn = (92 / (1.95 * 1.95));
+// console.log(bmiJohn);
+
+// let markHigherBMI = (bmiMark) > (bmiJohn);
+// console.log(markHigherBMI);
